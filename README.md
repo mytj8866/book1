@@ -1,3 +1,6 @@
-# My Awesome Book
+# DUP
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+DUP, Data Upload Platform，数据上报平台，是物业信管开发提供给各个业务线将各自业务数据上报的平台。
+
+
+
